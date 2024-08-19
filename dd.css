@@ -1,13 +1,42 @@
-body{
-    background-color: black;
+body {
+  background-color: black;
 }
-button{
-    background-color: crimson;
-    color: aliceblue;
+.continer {
+  width: 600px;
+  margin-left: 70px;
+  margin-top: 100px;
 }
-.short{
-    color: red;
+button {
+  background-color: crimson;
+  color: aliceblue;
 }
-.hero{
-    color: aliceblue;
+.short {
+  color: red;
 }
+.hero {
+  color: aliceblue;
+  font-size: 50px;
+}
+.heroe {
+  color: aliceblue;
+}
+.log {
+  float: right;
+  padding: 10px 15px;
+  margin-right: 7%;
+
+  font-size: 35px;
+  border-radius: 15px;
+}
+.learn {
+  padding: 10px 15px;
+  margin-right: 7%;
+  margin-top: 2%;
+  font-size: 35px;
+  border-radius: 15px;
+}
+/* ul{
+    color: brown;
+    list-style: none;
+
+} */
